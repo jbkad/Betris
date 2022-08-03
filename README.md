@@ -1,2 +1,0 @@
-# Betris
-Bootleg Tetris
